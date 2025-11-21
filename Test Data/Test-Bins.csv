@@ -1,0 +1,28 @@
+##binmap id,1,1,1,1
+##bin start,0,50000,60000,70000
+##bin end,50000,60000,70000,90000
+bin center,25000,55000,65000,80000
+VF36.GT,a,a,a,a
+slyd.GT,b,b,b,b
+3882_rep1.GT,a,a,a,a
+3882_rep2.GT,a,a,a,a
+3882_rep3.GT,b,b,b,b
+3886_rep1.GT,a,a,a,a
+3886_rep2.GT,b,b,b,b
+3886_rep3.GT,h,h,h,h
+3892_rep1.GT,a,a,a,a
+3892_rep2.GT,a,a,a,a
+3892_rep3.GT,b,b,b,b
+4230_rep2.GT,a,a,a,a
+4230_rep3.GT,b,b,b,b
+4231_rep1.GT,a,a,a,a
+4231_rep2.GT,a,a,a,a
+4231_rep3.GT,b,b,b,b
+4231_rep4.GT,a,a,a,a
+4232_rep1.GT,a,a,a,a
+4232_rep2.GT,b,b,b,a
+4232_rep3.GT,a,a,a,a
+4232_rep4.GT,a,a,a,a
+4233_rep1.GT,b,b,b,b
+4233_rep2.GT,b,a,a,a
+4233_rep3.GT,b,b,b,b
