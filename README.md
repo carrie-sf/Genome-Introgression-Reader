@@ -11,13 +11,13 @@
     Code Folder: contains 4 files, each one labled with the general idea of what they do
 </div>
 <div>
-## Usage
+USAGE
 1. Navigate to the code folder: `cd code`
 2. Run the main script: `python main.py`
 3. Use the test CSV files from the test-data folder
 </div>
 <div>
-## Features
+FEATURES
 - CSV file parsing
 - Taking bin coordinates (for previously classified bins)
 - Using those coordinates and implementing them to parse through each SNP in that bin
